@@ -1,7 +1,5 @@
 # Roblox Phishing
 
-**Outdated | New Version -> https://github.com/Terminatedzz/roblox-phishing**
-
 🚀 **Setup** 🚀
 
 [![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository.svg)]([https://github.com/your-username/your-repository/](https://github.com/Terminatedzz/roblox-phishing-Working)stargazers)
